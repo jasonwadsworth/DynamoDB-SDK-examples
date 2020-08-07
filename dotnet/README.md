@@ -8,15 +8,15 @@ This section contains .NET code for examples and common tasks with Amazon Dynamo
 | --------------------- | ---- |
 | BatchGet              | .NET |
 | BatchWrite            | .NET |
-| DeleteItem            | .NET |
-| DeleteItemConditional | .NET |
+| DeleteItem            | [.NET](./WorkingWithItems/DeleteItem.cs) |
+| DeleteItemConditional | [.NET](./WorkingWithItems/DeleteItemConditional.cs) |
 | GetItem               | [.NET](./WorkingWithItems/GetItem.cs) |
-| PutItem               | .NET |
-| PutItemConditional    | .NET |
+| PutItem               | [.NET](./WorkingWithItems/PutItem.cs) |
+| PutItemConditional    | [.NET](./WorkingWithItems/PutItemConditional.cs) |
 | TransactGet           | .NET |
 | TransactWrite         | .NET |
-| UpdateItem            | .NET |
-| UpdateItemConditional | .NET |
+| UpdateItem            | [.NET](./WorkingWithItems/UpdateItem.cs) |
+| UpdateItemConditional | [.NET](./WorkingWithItems/UpdateItemConditional.cs) |
 
 ## Working with Indexes
 
